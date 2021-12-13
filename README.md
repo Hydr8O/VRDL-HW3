@@ -5,6 +5,5 @@ Reproducing submission
 3. Activate environment conda activate hw3_env
 4. Install dependencies ./install.sh
 6. Download pretrained model https://drive.google.com/file/d/1gs0ySEjGP6AAppdwTPVLgLqnPFIChi16/view?usp=sharing
-7. Put the weights into mmdetection folder
-8. Put images for inference into data/nucleus/test/images
-9. Launch inference with python inference.py. The output will be in answer.json
+7. Put images for inference into data/nucleus/test/images
+8. Launch inference with python inference.py. The output will be in answer.json
