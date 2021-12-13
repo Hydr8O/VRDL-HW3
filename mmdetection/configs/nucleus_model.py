@@ -36,13 +36,13 @@ data = dict(
         type=dataset_type,
         ann_file="data/nucleus/test_annotations.json",
         classes=classes,
-        img_prefix="data/nucleus/train/images",
+        img_prefix="data/nucleus/test/images",
     ),
     test=dict(
         type=dataset_type,
         ann_file="data/nucleus/test_annotations.json",
         classes=classes,
-        img_prefix="data/nucleus/train/images",
+        img_prefix="data/nucleus/test/images",
     ),
 )
 
