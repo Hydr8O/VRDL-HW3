@@ -6,4 +6,4 @@ Reproducing submission
 4. Install dependencies ./install.sh
 6. Download pretrained model https://drive.google.com/file/d/1gs0ySEjGP6AAppdwTPVLgLqnPFIChi16/view?usp=sharing
 7. Put images for inference into data/nucleus/test/images
-8. Launch inference with python inference.py. The output will be in answer.json
+8. Launch inference with python inference.py. The output will be in answer.segm.json
