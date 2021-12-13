@@ -189,7 +189,7 @@ if __name__ == '__main__':
         name='mmdet',
         version=get_version(),
         description='OpenMMLab Detection Toolbox and Benchmark',
-        long_description=readme(),
+        long_description='description',
         long_description_content_type='text/markdown',
         author='MMDetection Contributors',
         author_email='openmmlab@gmail.com',
