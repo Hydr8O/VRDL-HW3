@@ -1,6 +1,6 @@
 Reproducing submission
 =======================
-1. Clone repository git clone https://github.com/Hydr8O/VRDL-HW3
+1. Clone repository ```git clone https://github.com/Hydr8O/VRDL-HW3```
 2. Create conda environment conda create -n hw3_env python=3.7 -y
 3. Activate environment conda activate hw3_env
 4. Install dependencies ./install.sh
